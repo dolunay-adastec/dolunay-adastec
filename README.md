@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dolunay.
-- 👀 I’m interested in Safety, Quality, Test, Control, HD Maps.
-- 🌱 I’m currently learning everything about Autonomous Driving.
-- 💞️ I’m looking to collaborate on Autonomous Driving Test Methods.
+- 👀 I’m interested in Safety, Quality, Tests, HD Maps, Data Analysis, and Anomaly Management.
 - 📫 How to reach me: dolunay@adastec.com
 
 <!---
